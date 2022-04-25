@@ -1,114 +1,61 @@
 {
   "products": [
     {
-      "id": 1,
-      "imageUrl": "https://karlfinancialfreedom.com/wp-content/uploads/2019/09/48178300-ripe-apple-in-closeup-1.jpg",
-      "name": "apple",
-      "count": 4,
-      "size": {
-        "width": 200,
-        "height": 200
-      },
-      "weight": "232g"
+      "id": "1",
+      "type": "DVD",
+      "name": "DVD-one",
+      "price": "13",
+      "size": "4700"
     },
     {
-      "id": 2,
-      "imageUrl": "https://fruit-time.ua/images/products/5a/banan-bebi-imp.jpeg",
-      "name": "banana",
-      "count": 13,
-      "size": {
-        "width": 200,
-        "height": 200
-      },
-      "weight": "230g"
+      "id": "2",
+      "type": "Book",
+      "name": "Book-one",
+      "price": "3",
+      "weight": "1700"
     },
     {
-      "id": 3,
-      "imageUrl": "https://st.depositphotos.com/1036708/3353/i/600/depositphotos_33538897-stock-photo-pumpkin.jpg",
-      "name": "garbus",
-      "count": 1,
-      "size": {
-        "width": 200,
-        "height": 200
-      },
-      "weight": "790g"
+      "id": "3",
+      "type": "Furniture",
+      "name": "Furniture-one",
+      "price": "32",
+      "dimensions": {
+        "h": "12",
+        "w": "23",
+        "l": "6"
+      }
     },
     {
-      "id": 4,
-      "imageUrl": "https://produits.bienmanger.com/33469-0w470h470_Organic_Fresh_Pineapple.jpg",
-      "name": "pineapple",
-      "count": 222,
-      "size": {
-        "width": 200,
-        "height": 200
-      },
-      "weight": "877g"
+      "id": "4",
+      "type": "Furniture",
+      "name": "Furniture-two",
+      "price": "37",
+      "dimensions": {
+        "h": "17",
+        "w": "25",
+        "l": "16"
+      }
     },
     {
-      "id": 5,
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumw7uVPUQkvA790P2Yy-NLQrSJ584GJE7sw_X6TUXcdF2aQwYWshsPN82jYOLtPjNSwo&usqp=CAU",
-      "name": "tomato",
-      "count": 1234,
-      "size": {
-        "width": 200,
-        "height": 200
-      },
-      "weight": "120g"
+      "id": "5",
+      "type": "DVD",
+      "name": "DVD-two",
+      "price": "15",
+      "size": "4700"
     },
     {
-      "id": 6,
-      "imageUrl": "https://media.istockphoto.com/photos/three-potatoes-picture-id157430678?k=20&m=157430678&s=170667a&w=0&h=1MnI7JGdWjUqC2h8YdAPFl85-vreh5BjQ1LFemqf2aU=",
-      "name": "potato",
-      "count": 2323,
-      "size": {
-        "width": 200,
-        "height": 200
-      },
-      "weight": "98g"
-    }
-  ],
-  "comments": [
-    {
-      "id": 10,
-      "productId": 3,
-      "description": "Ooooo!!!",
-      "date": "Mon Mar 28 2022 00:42:44 GMT+0300 (Восточная Европа, летнее время)"
+      "id": "6",
+      "type": "DVD",
+      "name": "DVD-three",
+      "price": "24",
+      "size": "9700"
     },
     {
-      "id": 11,
-      "productId": 2,
-      "description": "hghjgkhgkgh!!!!",
-      "date": "Mon Mar 28 2022 00:43:01 GMT+0300 (Восточная Европа, летнее время)"
-    },
-    {
-      "id": 12,
-      "productId": 1,
-      "description": "hhhgff",
-      "date": "Mon Mar 28 2022 01:54:10 GMT+0300 (Восточная Европа, летнее время)"
-    },
-    {
-      "id": 13,
-      "productId": 1,
-      "description": "qweasd",
-      "date": "Mon Mar 28 2022 01:58:40 GMT+0300 (Восточная Европа, летнее время)"
-    },
-    {
-      "id": 14,
-      "productId": 1,
-      "description": "wqeasdasd",
-      "date": "Mon Mar 28 2022 01:58:40 GMT+0300 (Восточная Европа, летнее время)"
-    },
-    {
-      "id": 15,
-      "productId": 4,
-      "description": "ooouUYY~~!",
-      "date": "Mon Mar 28 2022 12:08:19 GMT+0300 (Восточная Европа, летнее время)"
-    },
-    {
-      "id": 16,
-      "productId": 5,
-      "description": "rggdfgfd",
-      "date": "Mon Mar 28 2022 13:06:32 GMT+0300 (Восточная Европа, летнее время)"
+      "id": "7",
+      "type": "Book",
+      "name": "Book-two",
+      "price": "33",
+      "weight": "3700"
     }
   ]
 }
